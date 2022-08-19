@@ -1,0 +1,25 @@
+title:              HDIM's Blog
+email:              hdim91@gmail.com
+description:        임현도의 블로그
+author:             Hyundo Im
+baseurl:            "/HDIM"
+url:                "hdim91.github.io/hdim/"
+
+# Social Profiles
+twitter_username:   
+github_username:    hdim91
+facebook_username:  hyundo.im
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
