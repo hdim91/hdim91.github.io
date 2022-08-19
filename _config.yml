@@ -2,8 +2,8 @@ title:              HDIM's Blog
 email:              hdim91@gmail.com
 description:        임현도의 블로그
 author:             Hyundo Im
-baseurl:            "/HDIM"
-url:                "hdim91.github.io/hdim/"
+baseurl:            ""
+url:                "hdim91.github.io/"
 
 # Social Profiles
 twitter_username:   
