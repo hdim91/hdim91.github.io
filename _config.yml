@@ -14,7 +14,7 @@ linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:
-google_site_verification: XixrUVGZI6ovCU68EBzUFG7KjJkQsmyvu8Wv7XPaVRw
+
 
 # Build settings
 markdown:           kramdown
