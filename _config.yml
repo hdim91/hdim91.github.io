@@ -48,12 +48,13 @@ menu:
   - title:                BLOG
     url:                  /blog/
   - title:                R
-    url:                  /R/
+    url:                  /r/
   - title:                Python
     url:                  /python/
   - title:                About
     url:                  /about/
-
+  - title:                RUST
+    url:                  /rust/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 # legal:
