@@ -1,6 +1,6 @@
 ---
 layout: list
-title: r
+title: R
 slug: r
 menu: true
 order: 1
