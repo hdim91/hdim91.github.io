@@ -48,7 +48,7 @@ menu:
   - title:                BLOG
     url:                  /blog/
   - title:                R
-    url:                  /r/
+    url:                  /rlang/
   - title:                Python
     url:                  /python/
   - title:                RUST

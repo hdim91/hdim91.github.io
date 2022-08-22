@@ -1,7 +1,7 @@
 ---
 layout: list
 title: R
-slug: r
+slug: rlang
 menu: true
 order: 1
 description: >
