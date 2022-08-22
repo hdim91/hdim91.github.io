@@ -45,22 +45,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:                Algorithm
-    url:                  /algo/
-  - title:                Network
-    url:                  /network/
-  - title:                STUDY
-    url:                  /study/
-  - title:                JAVASCRIPT
-    url:                  /javascript/
-  - title:                PYTHON
-    url:                  /python/
-  - title:                VUE.JS
-    url:                  /vue/
-#  - title:               Documentation
-#    url:                 /docs/
   - title:                BLOG
     url:                  /blog/
+  - title:                R
+    url:                  /R/
+  - title:                Python
+    url:                  /python/
   - title:                About
     url:                  /about/
 
