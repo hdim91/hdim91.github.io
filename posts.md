@@ -2,7 +2,6 @@
 layout: list
 title: Posts
 description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
-  Open `posts.md` to edit this text.
+  제 개인적인 의견과 경험을 담은 글들을 모아 놓으려 합니다.
+  감사합니다.
 ---
